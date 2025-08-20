@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer: one
+  service: one
+  schedule_slot: one
+  state: MyString
+  price_cents: 1
+  currency: MyString
+  cancellation_fee_dollars: 1
+  canceled_reason: MyString
+
+two:
+  customer: two
+  service: two
+  schedule_slot: two
+  state: MyString
+  price_cents: 1
+  currency: MyString
+  cancellation_fee_dollars: 1
+  canceled_reason: MyString

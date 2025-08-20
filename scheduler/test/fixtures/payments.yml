@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  booking: one
+  provider: MyString
+  status: MyString
+  amount_cents: 1
+  external_ref: MyString
+
+two:
+  booking: two
+  provider: MyString
+  status: MyString
+  amount_cents: 1
+  external_ref: MyString
